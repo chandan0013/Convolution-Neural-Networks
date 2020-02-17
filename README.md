@@ -21,3 +21,6 @@ stride = 2 followed by ReLU operation
 one \Average" pooling layer (nn.AdaptiveAvgPool2d(1) would work in PyTorch)
 
 Plot the training and testing accuracy as a function of atleast 10 epochs.
+
+%%%%Data folder not included, source path needs to be updated
+Email me for Linux Script file 
